@@ -18,6 +18,9 @@ public class GitTest {
         System.out.println("Testing");
         newDevelopmentMehtod();
         hotfixMethod();
+        SecondClass secondClass = new SecondClass(1, "test");
+        secondClass.output();
+        
     }
     
     
