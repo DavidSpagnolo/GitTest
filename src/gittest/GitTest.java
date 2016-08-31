@@ -19,4 +19,9 @@ public class GitTest {
     }
     
     
+    public static void hotfixMethod(){
+        System.out.println("hotfix method");
+    }
+    
+    
 }
