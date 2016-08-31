@@ -24,9 +24,12 @@ public class SecondClass {
     public void output(){
         System.out.println(getI());
         System.out.println(getS());
+        newMethod();
     }
     
-    
+    public void newMethod(){
+        System.out.println("doing stuff");
+    }
     
     private int i;
     private String s;
