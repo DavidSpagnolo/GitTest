@@ -16,6 +16,7 @@ public class SecondClass {
     SecondClass(int i, String s){
         setI(i);
         setS(s);
+        setS(s);
         //adding comment
     }
     
