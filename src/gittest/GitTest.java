@@ -16,6 +16,7 @@ public class GitTest {
      */
     public static void main(String[] args) {
         System.out.println("Testing");
+        newDevelopmentMehtod();
     }
     
     public static void newDevelopmentMehtod(){
