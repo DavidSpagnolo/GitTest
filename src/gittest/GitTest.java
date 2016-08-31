@@ -18,5 +18,8 @@ public class GitTest {
         System.out.println("Testing");
     }
     
+    public static void newDevelopmentMehtod(){
+        System.out.println("new dev method");
+    }
     
 }
