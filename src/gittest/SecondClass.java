@@ -17,7 +17,7 @@ public class SecondClass {
         setI(i);
         setS(s);
         setS(s);
-        //adding comment
+        //adding comment c
     }
     
     public void output(){
