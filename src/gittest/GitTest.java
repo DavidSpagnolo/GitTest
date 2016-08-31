@@ -16,6 +16,7 @@ public class GitTest {
      */
     public static void main(String[] args) {
         System.out.println("Testing");
+        newDevelopmentMehtod();
         hotfixMethod();
     }
     
@@ -24,5 +25,8 @@ public class GitTest {
         System.out.println("hotfix method");
     }
     
+    public static void newDevelopmentMehtod(){
+        System.out.println("new dev method");
+    }
     
 }
