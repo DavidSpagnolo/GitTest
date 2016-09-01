@@ -29,6 +29,7 @@ public class SecondClass {
     
     public void newMethod(){
         System.out.println("doing stuff");
+        System.out.println("doing other stuff");
     }
     
     private int i;
